@@ -43,8 +43,10 @@ img {
 }
 
 p {
-  text-align: center;
-  font-size: 16px;
+  text-align: justify;
+  font-size: 14px;
+  padding-left: 32px;
+  padding-right: 15px;
 }
 
 .p-description {
