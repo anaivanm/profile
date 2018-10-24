@@ -1,0 +1,105 @@
+body {
+  background-color: #F4F4F4;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  color: #11111C;
+  font-size: 18px;
+  line-height: 16px;
+  text-align: center;
+  display: block;
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+#card-top {
+  background: white;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+#img-profile {
+  width: 130px;
+  height: 120px;
+  border: 2px dotted #C5283D;
+  border-radius: 50%;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+img {
+  width: 130px;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+}
+
+.p-description {
+  font-size: 12px;
+  text-align: justify;
+
+}
+
+h1 {
+  color: #C5283D;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 3px
+}
+
+h2 {
+  color: #210124;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  padding-bottom: 35px;
+}
+
+
+h3 {
+  color: #11111C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#list-inline > ul > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+a {
+  color: #7E8287;
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C5283D;
+}
+
+
