@@ -1,8 +1,8 @@
 body {
-  background-color: #F4F4F4;
+  background: url("images/background-cat.jpg");
+  background-size: repeat;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  color: #11111C;
   font-size: 18px;
   line-height: 16px;
   text-align: center;
@@ -26,7 +26,7 @@ body {
 #img-profile {
   width: 130px;
   height: 120px;
-  border: 2px dotted #C5283D;
+  border: 2px dotted rgb(227, 107, 62);
   border-radius: 50%;
 }
 
@@ -47,16 +47,18 @@ p {
   font-size: 14px;
   padding-left: 32px;
   padding-right: 15px;
+  color: #7E8287;
 }
 
 .p-description {
   font-size: 12px;
   text-align: justify;
+  color: #7E8287;
 
 }
 
 h1 {
-  color: #C5283D;
+  color: rgb(227, 107, 62);
   font-family: 'Roboto', sans-serif;
   font-size: 24px;
   line-height: 40px;
@@ -64,7 +66,7 @@ h1 {
 }
 
 h2 {
-  color: #210124;
+  color: #7E8287;
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   line-height: 20px;
@@ -73,7 +75,7 @@ h2 {
 
 
 h3 {
-  color: #11111C;
+  color: #7E8287;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   line-height: 20px;
@@ -100,7 +102,7 @@ a {
 }
 
 a:hover {
-  color: #C5283D;
+  color: rgb(227, 107, 62);
 }
 
 
